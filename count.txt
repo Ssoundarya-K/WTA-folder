@@ -1,0 +1,4 @@
+This is java
+java is purely object oriented
+it has many built in functions
+it is used in backend
